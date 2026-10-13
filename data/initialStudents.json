@@ -1,0 +1,38 @@
+[
+  {
+    "id": "STU-101",
+    "name": "Alex Mercer",
+    "age": 21,
+    "course": "Full Stack Web Development",
+    "grades": { "html": 92, "css": 88, "javascript": 95 },
+    "contact": { "email": "alex.mercer@example.com", "phone": "+1-555-0192" },
+    "isActive": true
+  },
+  {
+    "id": "STU-102",
+    "name": "Sophia Chen",
+    "age": 23,
+    "course": "AI & Machine Learning",
+    "grades": { "python": 98, "math": 94, "javascript": 91 },
+    "contact": { "email": "sophia.chen@example.com", "phone": "+1-555-0143" },
+    "isActive": true
+  },
+  {
+    "id": "STU-103",
+    "name": "Marcus Vance",
+    "age": 20,
+    "course": "Full Stack Web Development",
+    "grades": { "html": 75, "css": 82, "javascript": 78 },
+    "contact": { "email": "marcus.vance@example.com", "phone": "+1-555-0188" },
+    "isActive": false
+  },
+  {
+    "id": "STU-104",
+    "name": "Elena Rostova",
+    "age": 22,
+    "course": "Cybersecurity",
+    "grades": { "networking": 89, "linux": 93, "javascript": 87 },
+    "contact": { "email": "elena.rostova@example.com", "phone": "+1-555-0177" },
+    "isActive": true
+  }
+]

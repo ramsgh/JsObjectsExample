@@ -1,0 +1,12 @@
+{
+  "name": "student-management-system-d15",
+  "version": "1.0.0",
+  "description": "Student Management System demonstrating all JavaScript D15 Object concepts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["javascript", "objects", "es6", "student-management"],
+  "author": "DevMetrics Academy",
+  "license": "ISC"
+}
